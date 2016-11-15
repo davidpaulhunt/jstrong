@@ -3,9 +3,20 @@
   "version": "0.0.1",
   "description": "Easily secure json object keys and values.",
   "main": "index.js",
+  "repository": "davidpaulhunt/jstrong",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [
+    "json",
+    "siphr",
+    "encryption",
+    "security",
+    "passwords",
+    "aes256",
+    "cipher",
+    "crypto"
+  ],
   "author": "David Hunt <davidpaulhunt@gmail.com>",
   "license": "ISC",
   "dependencies": {
