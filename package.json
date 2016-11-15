@@ -1,0 +1,14 @@
+{
+  "name": "jstrong",
+  "version": "0.0.1",
+  "description": "Easily secure json object keys and values.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Hunt <davidpaulhunt@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "siphr": "0.0.2"
+  }
+}
