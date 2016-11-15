@@ -6,7 +6,7 @@ module.exports = (secret) => {
     },
 
     parse: function parse(jsonString) {
-      return JSON.parse(spir.unmask(jsonString));
+      return siphr.unmask(JSON.parse(jsonString));
     },
   };
 };

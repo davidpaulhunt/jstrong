@@ -1,11 +1,11 @@
 {
   "name": "jstrong",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Easily secure json object keys and values.",
   "main": "index.js",
   "repository": "davidpaulhunt/jstrong",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test"
   },
   "keywords": [
     "json",
@@ -20,6 +20,6 @@
   "author": "David Hunt <davidpaulhunt@gmail.com>",
   "license": "ISC",
   "dependencies": {
-    "siphr": "0.0.2"
+    "siphr": "0.0.3"
   }
 }
