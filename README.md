@@ -1,7 +1,7 @@
 JSTRONG
 =======
 
-Addition to siphr explicitly for JSON objects.
+Addition to [siphr](https://github.com/davidpaulhunt/siphr) explicitly for JSON objects.
 
 Possible use cases:
 * web tokens
